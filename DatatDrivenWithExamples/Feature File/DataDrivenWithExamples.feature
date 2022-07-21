@@ -19,3 +19,4 @@ To be be able to enter different data for the same Scenario on the website
 	| Morry    | morry@yahoo.com | didi     |
 	| Bisi     | bisi@aol.com    | bisbis   |
 	| Tola     | dodo@yahoo.com  | tolitoli |
+	| Sola     | ola@yahoo.com   | lalala   |
