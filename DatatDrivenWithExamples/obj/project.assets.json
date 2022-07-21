@@ -5629,11 +5629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\DatatDrivenWithExamples.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Data-Driven-with-examples\\DatatDrivenWithExamples\\DatatDrivenWithExamples.csproj",
       "projectName": "DatatDrivenWithExamples",
-      "projectPath": "C:\\Users\\user\\Downloads\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\DatatDrivenWithExamples.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Data-Driven-with-examples\\DatatDrivenWithExamples\\DatatDrivenWithExamples.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\DatatDrivenWithExamples\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Data-Driven-with-examples\\DatatDrivenWithExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

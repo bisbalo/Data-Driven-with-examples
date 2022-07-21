@@ -2,10 +2,7 @@
 
 To be be able to enter different data for the same Scenario on the website
 	
-	
-	
-	
-	
+
 	Scenario Outline: Valid Registration
 	Given I navigate to the website "https://angularjs.realworld.io/#/"
 	And I click on sign up 
