@@ -79,6 +79,8 @@ namespace DatatDrivenWithExamples.FeatureFile
         [NUnit.Framework.TestCaseAttribute("Meena", "meena@gmail.com", "nana101", null)]
         [NUnit.Framework.TestCaseAttribute("Morry", "morry@yahoo.com", "didi", null)]
         [NUnit.Framework.TestCaseAttribute("Bisi", "bisi@aol.com", "bisbis", null)]
+        [NUnit.Framework.TestCaseAttribute("Tola", "dodo@yahoo.com", "tolitoli", null)]
+        [NUnit.Framework.TestCaseAttribute("Sola", "ola@yahoo.com", "lalala", null)]
         public void ValidRegistration(string username, string email, string password, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;
